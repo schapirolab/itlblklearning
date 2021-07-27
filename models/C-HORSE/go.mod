@@ -1,4 +1,4 @@
-module hip-splitca1
+module C-HORSE
 
 go 1.13
 

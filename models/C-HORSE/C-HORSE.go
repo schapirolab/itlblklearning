@@ -1,5 +1,6 @@
-// hip-splitca1 runs a modifed hippocampus circuitry model based on Schapiro et al. (2017)
-// on an AB-AC paired associate learning task
+// C-HORSE is a hippocampus circuitry model based on Schapiro et al. (2017) 
+// This simulation runs it on an AB-AC paired associate learning task
+// See https://github.com/schapirolab/itlblklearning for more details
 
 package main
 
